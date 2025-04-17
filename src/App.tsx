@@ -132,7 +132,7 @@ function App() {
         >
           <div className="flex items-center space-x-3">
             <Code2 className="w-8 h-8 text-purple-400" />
-            <h1 className="text-3xl font-bold text-white">CodeCanvas</h1>
+            <h1 className="text-3xl font-bold text-white">1337 Code Editor</h1>
           </div>
           <motion.button
             whileHover={{ scale: 1.05 }}
